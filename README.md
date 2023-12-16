@@ -3,7 +3,8 @@
 1.Odin Logo
 
 2.Form
-
+    2-1. 로그인 될때 홈페이지와 함께 업로드 되도록 처리
+    2-2. placeholder 가 focus되면 사라지도록 설정
 3.Name
     3-1.First Name
     3-2.Last Name
@@ -11,10 +12,11 @@
 4.Email
 
 5.Phone Number
-
+    5-1. focus 시 text가 xxx-xxxx-xxxx로 변경
 6.Password
-    6-1.Confirm password
-    6-2.password
+    6-1. 비밀번호 옆에 확인하는 버튼 추가
+    6-2.Confirm password
+    6-3.password
 
 7.Submit button
 
