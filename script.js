@@ -99,4 +99,4 @@ phone.addEventListener("input", () => {
 // DOMContentLoaded 이벤트 이용, display를 이용해서 width, height 100%인 친구를 화면으로 꺼냄.
 
 // window.addEventListener("load",()=>{loading.setAttribute("style","display:none");})
-window.onload=setTimeout(()=>{loading.setAttribute("style","display:none")},3000);
+window.onload = setTimeout(() => { loading.setAttribute("style", "display:none") }, 3000);
